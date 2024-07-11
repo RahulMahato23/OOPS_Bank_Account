@@ -1,0 +1,1 @@
+This project involves the application of the OOPS concept in Python such as inheritance and polymorphism to simulate a savings account and interest account where we can create accounts, deposit, withdraw and transfer money.
